@@ -1,0 +1,7 @@
+D:\PR\2018,19\3DFPS\3DFPS\bin\Debug\3DFPS.exe.config
+D:\PR\2018,19\3DFPS\3DFPS\bin\Debug\3DFPS.exe
+D:\PR\2018,19\3DFPS\3DFPS\bin\Debug\3DFPS.pdb
+D:\PR\2018,19\3DFPS\3DFPS\obj\Debug\3DFPS.csprojAssemblyReference.cache
+D:\PR\2018,19\3DFPS\3DFPS\obj\Debug\3DFPS.csproj.CoreCompileInputs.cache
+D:\PR\2018,19\3DFPS\3DFPS\obj\Debug\3DFPS.exe
+D:\PR\2018,19\3DFPS\3DFPS\obj\Debug\3DFPS.pdb
